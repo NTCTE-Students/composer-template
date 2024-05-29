@@ -1,0 +1,16 @@
+{
+    "name": "ega22a/app",
+    "description": "This is an empty repository of the project generated via Composer Initialization.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "George Repiev",
+            "email": "repev.egor@nttek.ru"
+        }
+    ]
+}
